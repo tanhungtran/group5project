@@ -2,7 +2,7 @@
 
 ## Vai trò: Sinh viên 3 - Database (MongoDB)
 
-**Họ tên:** Trần Quốc Cường  
+**Họ tên:** Hồ Quốc Cường  
 **Nhiệm vụ:**
 - Tạo và quản lý database trên MongoDB Atlas  
 - Tạo model `User.js`  
