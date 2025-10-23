@@ -1,20 +1,23 @@
-# Group [NUMBER] Project - MERN Stack CRUD Application
+# [Tên Dự án của nhóm] - Ứng dụng Quản lý Người dùng (MERN CRUD)
 
-## Thành viên và Vai trò
+## 1. Công nghệ sử dụng
+- **Backend:** Node.js, Express, Mongoose
+- **Frontend:** React.js, Axios
+- **Database:** MongoDB Atlas
 
-# Group [NUMBER] Project - MERN Stack CRUD Application
-
-## Thành viên và Vai trò
-
-| Sinh viên | Vai trò | Công nghệ chính |
+## 2. Thành viên và Vai trò
+| Sinh viên | Vai trò | Đóng góp chính |
 | :---: | :---: | :---: |
-| Tên Sinh viên 1 | Backend Developer | Node.js, Express |
-| **Lợi** | **Frontend Developer** | **React.js, Axios** |
-| Tên Sinh viên 3 | Database Manager | MongoDB, Mongoose |
+| Sinh viên 1 | Backend Developer | Cấu hình Express, API GET/POST/PUT/DELETE |
+| **Lợi** | **Frontend Developer (Sinh viên 2)** | **Khởi tạo React, Component, Kết nối Axios (CRUD), Validation Form** |
+| Sinh viên 3 | Database Manager | Cấu hình MongoDB, Mongoose, Model User |
 
-## Công nghệ sử dụng
-* **Backend:** Node.js, Express
-* **Database:** MongoDB Atlas, Mongoose
-* **Frontend:** React.js, Axios
-* **Quản lý mã nguồn:** Git, GitHub
->>>>>>> 41fc93ecb52c7959b4e2333a55acba97bc4b51ee
+## 3. Hướng dẫn chạy dự án
+1. **Backend:**
+    * `cd backend`
+    * `npm install`
+    * `npm start` (hoặc `nodemon server.js`)
+2. **Frontend:**
+    * `cd frontend`
+    * `npm install`
+    * `npm start`
